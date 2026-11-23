@@ -1,0 +1,16 @@
+Package: br.contraluz.teatro
+Name: Contraluz
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: Contraluz <felipe-constantino@users.noreply.github.com>
+Section: Games
+Priority: optional
+Depends: firmware (>= 9.0), firmware (<< 11.0)
+Description: Teatro de sombras cooperativo para duas pessoas no mesmo iPad.
+ A carta atras da cortina. Inclui ensaio, dois finais e apresentacao offline.
+Filename: ./debs/br.contraluz.teatro_0.1.0_iphoneos-arm.deb
+Size: 367200
+MD5sum: 76165c6bc08fe8c65d3c4e9834ddb46c
+SHA1: 35b90a1e745c780df2bc2466a61386c8b3eaf45b
+SHA256: 4774f4cd918b7eab42052e0089ba9ae9fba870823953965349cd13d2e8fcc45f
+

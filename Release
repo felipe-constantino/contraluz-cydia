@@ -1,0 +1,21 @@
+Origin: Contraluz
+Label: Contraluz
+Suite: stable
+Version: 1
+Codename: contraluz
+Architectures: iphoneos-arm
+Components: main
+Description: Jogos nativos para o iPad
+Date: Mon, 23 Nov 2026 00:58:18 GMT
+MD5Sum:
+ 3b2b7acc7a639030174498840b3a6258 625 Packages
+ becb034c2dd83cff08fd1d6475464d36 445 Packages.gz
+ 8c08d981b01f0a9fe75ae1b366c8e19c 492 Packages.bz2
+SHA1:
+ 39913d01a50d344952464efbb7777c031d961718 625 Packages
+ b4f8d741ce27770ea4e99536b5c1ac1f043fe7ad 445 Packages.gz
+ f0f52d439e1b644935e90549549bb968cbeb2785 492 Packages.bz2
+SHA256:
+ eb320af22a76226063d2e781c45fce93739a3b7dd425f67de05de420f793adb6 625 Packages
+ 8ba4dca5e36f7f56eee77828a2683398fc2ff5d699b1d65f8e94f247f8b7295e 445 Packages.gz
+ 0f570e558102ff24826d2650cee4f969d5ad411ae14ca420c3b9490a15b26941 492 Packages.bz2
